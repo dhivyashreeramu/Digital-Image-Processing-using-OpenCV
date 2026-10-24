@@ -1,8 +1,8 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 
-**Name:** DHIVYASHREE R  
-**Register Number:** 212225040077  
-**Experiment:** Image Handling and Pixel Transformations Using OpenCV
+## Name: DHIVYASHREE R  
+## Register Number: 212225040077  
+## Experiment: Image Handling and Pixel Transformations Using OpenCV
 
 ---
 
